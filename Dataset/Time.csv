@@ -1,0 +1,6 @@
+,Dataset,Time,Detector/Descriptor
+0,Industrial_Estate,40.59028938500001,BRISK+FREAK
+1,Industrial_Estate,55.38922496000033,AGAST+SIFT
+2,Industrial_Estate,54.00291809199985,FAST+SIFT
+3,Industrial_Estate,52.1542164739999,SIFT
+4,Industrial_Estate,126.43009351299996,SURF
